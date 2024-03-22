@@ -1,0 +1,3 @@
+.terraform*
+eventskeypair.pem
+terraform.*
